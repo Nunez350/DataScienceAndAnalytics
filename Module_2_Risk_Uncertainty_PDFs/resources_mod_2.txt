@@ -1,0 +1,27 @@
+Types of Probability Distributions: Codes, Examples
+https://vitalflux.com/types-probability-distributions-defined-examples/#google_vignette
+
+10 Types of Statistical Data Distribution Models
+https://www.analyticssteps.com/blogs/10-types-statistical-data-distribution-models
+
+
+
+A SIR-type model describing the successive waves of COVID-19
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836270/
+
+Stats-Maths-with-Python
+https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/R_Functions.py
+
+6 Types of Probability Distribution in Data Science
+https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/
+
+
+SciPy scipy.stats.norm
+https://www.delftstack.com/api/scipy/scipy-scipy.stats.norm-method/
+
+
+How To Find Probability Distribution in Python
+https://www.geeksforgeeks.org/how-to-find-probability-distribution-in-python/
+
+Binomial distributions in practice
+https://towardsdatascience.com/binomial-distribution-ec76d74952c4
