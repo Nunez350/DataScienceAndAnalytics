@@ -1,0 +1,14 @@
+Once you have posted in Discussion 5.2 and responded to your peers, here are possible responses you could have come up with for the first scenario:
+
+Dependent variable — sales of a specific category of products (i.e. clothing sales)
+Factors (independent variables) — temperature, location, inventory
+Aspects of the retail website that could entice users — quality of photos, number of discounts offered, page load speed
+
+
+https://onlinestatbook.com/case_studies_rvls/physical_strength/index.html
+
+
+
+https://www.kdnuggets.com/2020/07/data-cleaning-secret-ingredient-success-data-science-project.html
+
+https://www.forbes.com/sites/sap/2014/04/30/how-big-data-can-predict-the-wine-of-the-century/?sh=498833b131a9
